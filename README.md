@@ -28,6 +28,7 @@ This repo contains all the `.py` files used in the series, including examples, e
 ## 💻 How to Use This Repository
 
 1. **Clone the repository**:
+ ```bash
 git clone https://github.com/your-username/python-short-series.git
 2. **Open the folder in your preferred IDE (VS Code, PyCharm, etc.)**.
 3. **Run the .py files to follow along with the examples or try the exercises yourself**.
@@ -60,4 +61,3 @@ Watch the full playlist here: [Python Tutorial](https://www.youtube.com/playlist
 
 This repository is for educational purposes. Feel free to use the code for learning and personal projects.
 Happy coding! 🚀
- ```bash
