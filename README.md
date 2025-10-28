@@ -52,7 +52,7 @@ git clone https://github.com/your-username/python-short-series.git
 
 🔗 Video Series Playlist
 
-Watch the full playlist here: [Insert Playlist Link]
+Watch the full playlist here: [[Insert Playlist Link]](https://www.youtube.com/playlist?list=PLA0Xo-nYZj7isH1iyIP-Q0r2WUOl_j_4d)
 
 ---
 
